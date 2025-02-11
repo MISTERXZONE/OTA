@@ -4,24 +4,19 @@
       "maintainer": "MISTER_X",
       "oem": "Realme",
       "device": "Realme GT2",
-      "filename": "Evolution-X/EvolutionX-15.0-20250206-porsche-10.3-Unofficial.zip",
-      "download": "https://sourceforge.net/projects/misterxzone/files/realme_gt2/Evolution-X/EvolutionX-15.0-20250206-porsche-10.3-Unofficial.zip/download",
-      "timestamp": 1738861013,
-      "md5": "f92e0df3b6ca7236977a9f748500e2c4",
-      "sha256": "a965f2047d3c21aa49035c439d1bb49489f0ce744030c14fd0a81d0f4eb8fd70",
-      "size": 2598188924,
+      "filename": "EvolutionX-15.0-20250211-porsche-10.3-OFFICIAL.zip",
+      "download": "https://sourceforge.net/projects/misterxzone/files/realme_gt2/Evolution-X/EvolutionX-15.0-20250211-porsche-10.3-OFFICIAL.zip/download",
+      "timestamp": 1739241618,
+      "md5": "670ef24f4a3a5e54c6991339e59feaef",
+      "sha256": "caf841b73f02ea07deffb9f30dae55665036ce2f56bfd6a4ff94f0ed3b0f0dc7",
+      "size": 3023211402,
       "version": "10.3",
-      "buildtype": "user",
+      "buildtype": "userdebug",
       "forum": "",
       "firmware": "",
       "paypal": "",
       "telegram": "",
-      "github": "MISTERXZONE",
-      "initial_installation_images": [
-        "boot",
-        "dtbo",
-        "vendor_boot"
-      ]
+      "github": ""
     }
   ]
 }
