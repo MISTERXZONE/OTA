@@ -1,11 +1,17 @@
 EvolutionX-15.0
 Version: 10.5
+Build Date : 16-04-2025 
+- Same as 13-04-2025 build, just source re-sync 
+
+
+EvolutionX-15.0
+Version: 10.5
 Build Date : 13-04-2025 
 - Imported auto brightness configs from Oneplus 8T
 - Fixed distorted noise at high volumes on speaker
-- KernelSU Next to v1.0.6 SUSFS v1.5.5 support
+- KernelSU Next to v1.0.6 with SUSFS v1.5.5 support
 - Lineage Kernel 5.4.289
 - Fixed Lockscreen Charging info
 - Oneplus/Realme Cam included
-- Thanks to @whyredfire devices and kernel trees.
+- Thanks to @whyredfire for devices and kernel trees.
 
